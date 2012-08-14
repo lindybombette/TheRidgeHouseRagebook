@@ -11,6 +11,10 @@ An interactive Yearbook with info about past/current/FUTURE ridgelings. Using:
 
 [Flask](http://flask.pocoo.org/)
 
+[uWSGI](http://projects.unbit.it/uwsgi/)
+
+[nginx](http://nginx.com/)
+
 [VirtualEnv](http://www.virtualenv.org/en/latest/index.html)
 
 [Postgres](http://www.postgresql.org/)
