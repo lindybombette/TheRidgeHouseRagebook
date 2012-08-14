@@ -23,6 +23,8 @@ BACKEND
 
 [Postgres on Heroku](https://postgres.heroku.com/)
 
+[AWS/S3](http://aws.amazon.com/web-mobile-social/)
+
 DEVTOOLS
 
 [VirtualEnv](http://www.virtualenv.org/en/latest/index.html)
