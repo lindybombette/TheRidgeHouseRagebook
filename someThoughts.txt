@@ -1,0 +1,5 @@
+Case Thoughts, August 14, 2012
+
+just sayin, we should have branching going on, I don't know how crazy 
+we want to get, but at least a dev branch for now, push to master when
+things are working (tests are passing if we have em) and whatnot.
