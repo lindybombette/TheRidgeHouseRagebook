@@ -29,3 +29,4 @@ DEVTOOLS
 
 [VirtualEnv](http://www.virtualenv.org/en/latest/index.html)
 
+[Fabric](http://docs.fabfile.org/en/1.4.3/index.html)
